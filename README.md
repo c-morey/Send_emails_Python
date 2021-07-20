@@ -1,2 +1,3 @@
-# Send_emails_Python
-Using smtplib to send email with Python
+## Sending Emails with Python
+
+Smtplib library helps to send emails with Python.
